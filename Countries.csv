@@ -1,0 +1,195 @@
+Name,ISO,UN_Region,UN_Subregion,WB_Income_Group,HDI_Group,UNFCCC,G7,G20,G77,LDC,SIDS,AOSIS,BASIC,BRICS,EU27,ETS,OPEC,Arab_States,Cartagena,Umbrella,MAC_MIT,MAC_McKinsey,MAC_GCAM,RCP_IIASA
+Afghanistan,AFG,Asia,Southern Asia,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SASI,ASIA
+Albania,ALB,Europe,Southern Europe,UMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROW,rEET,EnEU,REF
+Algeria,DZA,Africa,Northern Africa,LMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,MES,MESm,AFRN,MAF
+Angola,AGO,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,AFR,rAFR,AFRS,MAF
+Antigua and Barbuda,ATG,Americas,Latin America and the Caribbean,HIC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,ROW,rLAM,CAC,LAMi
+Argentina,ARG,Americas,Latin America and the Caribbean,UMC,VHi HDI,Non-Annex 1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,LAM,rLAM,ARGg,LAMi
+Armenia,ARM,Asia,Western Asia,UMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Aruba,ABW,Americas,Latin America and the Caribbean,HIC,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Australia,AUS,Oceania,Australia and New Zealand,HIC,VHi HDI,Annex 1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,ANZ,rOECDP,ANZg,OECD90
+Austria,AUT,Europe,Western Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EU15,OECD90
+Azerbaijan,AZE,Asia,Western Asia,UMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Bahamas,BHS,Americas,Latin America and the Caribbean,HIC,VHi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Bahrain,BHR,Asia,Western Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,MES,MESm,MESg,MAF
+Bangladesh,BGD,Asia,Southern Asia,LMC,Med HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,ROW,rdASI,SEASI,ASIA
+Barbados,BRB,Americas,Latin America and the Caribbean,HIC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Belarus,BLR,Europe,Eastern Europe,UMC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rEET,EEUR,REF
+Belgium,BEL,Europe,Western Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,EUR,rEUR,EU12,OECD90
+Belize,BLZ,Americas,Latin America and the Caribbean,UMC,Med HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,LAM,rLAM,CAC,LAMi
+Benin,BEN,Africa,Sub-Saharan Africa,LMC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Bermuda,BMU,Americas,Northern America,HIC,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROW,USAm,EU12,LAMi
+Bhutan,BTN,Asia,Southern Asia,LMC,Med HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SASI,ASIA
+Bolivia,BOL,Americas,Latin America and the Caribbean,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,LAM,rLAM,SASI,LAMi
+Bosnia and Herzegovina,BIH,Europe,Southern Europe,UMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROW,rEET,EnEU,REF
+Botswana,BWA,Africa,Sub-Saharan Africa,UMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRS,MAF
+Brazil,BRA,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,LAM,BRA,BRAg,LAMi
+Brunei Darussalam,BRN,Asia,South-eastern Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ASI,rdASI,SEASI,ASIA
+Bulgaria,BGR,Europe,Eastern Europe,UMC,Hi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Burundi,BDI,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Côte d'Ivoire,CIV,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Cabo Verde,CPV,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Cambodia,KHM,Asia,South-eastern Asia,LMC,Med HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SEASI,ASIA
+Cameroon,CMR,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Canada,CAN,Americas,Northern America,HIC,VHi HDI,Annex 1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,CAN,CANm,CANg,OECD90
+Cayman Islands,CYM,Americas,Latin America and the Caribbean,HIC,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Central African Republic,CAF,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Chad,TCD,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Chile,CHL,Americas,Latin America and the Caribbean,HIC,VHi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,LAM,rLAM,SAS,LAMi
+China,CHN,Asia,Eastern Asia,UMC,Hi HDI,Non-Annex 1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,CHN,CHNm,CHNg,ASIA
+Colombia,COL,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,LAM,rLAM,COLg,LAMi
+Comoros,COM,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,AFR,rAFR,AFRE,MAF
+Costa Rica,CRI,Americas,Latin America and the Caribbean,UMC,VHi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,LAM,rLAM,CAC,LAMi
+Croatia,HRV,Europe,Southern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EEUR,REF
+Cuba,CUB,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,LAM,rLAM,CAC,LAMi
+Cyprus,CYP,Asia,Western Asia,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EEUR,REF
+Czech Republic,CZE,Europe,Eastern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+"Congo, Democratic Republic",COD,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Denmark,DNK,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,EUR,rEUR,EU12,OECD90
+Djibouti,DJI,Africa,Sub-Saharan Africa,LMC,Lo HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,MES,MESm,AFRE,MAF
+Dominica,DMA,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Dominican Republic,DOM,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,ROW,rLAM,CAC,LAMi
+Ecuador,ECU,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,LAM,rLAM,SAN,LAMi
+Egypt,EGY,Africa,Northern Africa,LMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,MES,MESm,AFRN,MAF
+El Salvador,SLV,Americas,Latin America and the Caribbean,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,LAM,rLAM,CAC,LAMi
+Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,UMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,AFR,rAFR,AFRW,MAF
+Eritrea,ERI,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Estonia,EST,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,FSU,rEUR,EEUR,REF
+Eswatini,SWZ,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRS,MAF
+Ethiopia,ETH,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,AFR,rAFR,AFRE,MAF
+Faeroe Islands,FRO,Europe,Northern Europe,HIC,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EUR,rEUR,EnEU,OECD90
+Fiji,FJI,Oceania,Melanesia,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rOECDP,ANZg,OECD90
+Finland,FIN,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EU15,OECD90
+France,FRA,Europe,Western Europe,HIC,VHi HDI,Annex 1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,EUR,FRA,EU12,OECD90
+French Polynesia,PYF,Oceania,Polynesia,HIC,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ROW,rOECDP,ANZg,OECD90
+Gabon,GAB,Africa,Sub-Saharan Africa,UMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,AFR,rAFR,AFRW,MAF
+Gambia,GMB,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Georgia,GEO,Asia,Western Asia,UMC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Germany,DEU,Europe,Western Europe,HIC,VHi HDI,Annex 1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,EUR,DEU,EU12,OECD90
+Ghana,GHA,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,AFR,rAFR,AFRW,MAF
+Greece,GRC,Europe,Southern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EU12,OECD90
+Greenland,GRL,Americas,Northern America,HIC,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EUR,rEUR,EU12,OECD90
+Grenada,GRD,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,LAM,rLAM,CAC,LAMi
+Guatemala,GTM,Americas,Latin America and the Caribbean,UMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,LAM,rLAM,CAC,LAMi
+Guinea,GIN,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Guinea-Bissau,GNB,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Guyana,GUY,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,LAM,rLAM,SAN,LAMi
+Haiti,HTI,Americas,Latin America and the Caribbean,LMC,Lo HDI,Non-Annex 1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Honduras,HND,Americas,Latin America and the Caribbean,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,LAM,rLAM,CAC,LAMi
+Hong Kong,HKG,Asia,Eastern Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,CHN,CHNm,CHNg,ASIA
+Hungary,HUN,Europe,Eastern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Iceland,ISL,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,ROW,rOECDE,EFTA,OECD90
+India,IND,Asia,Southern Asia,LMC,Med HDI,Non-Annex 1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,IND,INDm,INDg,ASIA
+Indonesia,IDN,Asia,South-eastern Asia,LMC,Hi HDI,Non-Annex 1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,IDZ,rdASI,IDZg,ASIA
+Iran,IRN,Asia,Southern Asia,LMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,MES,MESm,MESg,MAF
+Iraq,IRQ,Asia,Western Asia,UMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,MES,MESm,MESg,MAF
+Ireland,IRL,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EU12,OECD90
+Israel,ISR,Asia,Western Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,MES,MESm,MESg,MAF
+Italy,ITA,Europe,Southern Europe,HIC,VHi HDI,Annex 1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,EUR,ITA,EU12,OECD90
+Jamaica,JAM,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Japan,JPN,Asia,Eastern Asia,HIC,VHi HDI,Annex 1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,JPN,JPNm,JPNg,OECD90
+Jordan,JOR,Asia,Western Asia,UMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,MES,MESm,MESg,MAF
+Kazakhstan,KAZ,Asia,Central Asia,UMC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Kenya,KEN,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Kiribati,KIR,Oceania,Micronesia,LMC,Med HDI,Non-Annex 1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,ROW,rdASI,ANZg,ASIA
+"Korea, North",PRK,Asia,Eastern Asia,LIC,,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SEASI,ASIA
+"Korea, South",KOR,Asia,Eastern Asia,HIC,VHi HDI,Non-Annex 1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ASI,rOECDP,KORg,ASIA
+Kuwait,KWT,Asia,Western Asia,HIC,VHi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,MES,MESm,MESg,MAF
+Kyrgyz Republic,KGZ,Asia,Central Asia,LMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Lao People's Democratic Republic,LAO,Asia,South-eastern Asia,LMC,Med HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SEASI,ASIA
+Latvia,LVA,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Lebanon,LBN,Asia,Western Asia,LMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,MES,MESm,MESg,MAF
+Liberia,LBR,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Libya,LBY,Africa,Northern Africa,UMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,MES,MESm,AFRN,MAF
+Lithuania,LTU,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Luxembourg,LUX,Europe,Western Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EU12,OECD90
+Macao,MAC,Asia,Eastern Asia,HIC,,Non-Annex 1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,CHN,CHNm,CHNg,ASIA
+Macedonia,MKD,Europe,Southern Europe,UMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EET,rEET,EnEU,REF
+Madagascar,MDG,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Malawi,MWI,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,AFR,rAFR,AFRE,MAF
+Malaysia,MYS,Asia,South-eastern Asia,UMC,VHi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ASI,rdASI,SEASI,ASIA
+Maldives,MDV,Asia,Southern Asia,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,ROW,rdASI,SASI,ASIA
+Mali,MLI,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Malta,MLT,Europe,Southern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EEUR,REF
+Marshall Islands,MHL,Oceania,Micronesia,UMC,Med HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,ROW,rdASI,ANZg,OECD90
+Mauritania,MRT,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,AFR,rAFR,AFRW,MAF
+Mauritius,MUS,Africa,Sub-Saharan Africa,UMC,VHi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Mexico,MEX,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,MEX,MEXm,MEXg,LAMi
+Moldova,MDA,Europe,Eastern Europe,UMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EET,rEET,EEUR,REF
+Mongolia,MNG,Asia,Eastern Asia,LMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,CASI,ASIA
+Montenegro,MNE,Europe,Southern Europe,UMC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EET,rEET,EEUR,REF
+Morocco,MAR,Africa,Northern Africa,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,AFR,rAFR,AFRN,MAF
+Mozambique,MOZ,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Myanmar,MMR,Asia,South-eastern Asia,LMC,Med HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SEASI,ASIA
+Namibia,NAM,Africa,Sub-Saharan Africa,UMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRS,MAF
+Nepal,NPL,Asia,Southern Asia,LMC,Med HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SASI,ASIA
+Netherlands,NLD,Europe,Western Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,EUR,rEUR,EU12,OECD90
+New Caledonia,NCL,Oceania,Melanesia,HIC,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ROW,rEUR,ANZg,OECD90
+New Zealand,NZL,Oceania,Australia and New Zealand,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,ANZ,rOECDP,ANZg,OECD90
+Nicaragua,NIC,Americas,Latin America and the Caribbean,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,LAM,rLAM,CAC,LAMi
+Niger,NER,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Nigeria,NGA,Africa,Sub-Saharan Africa,LMC,Lo HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,AFR,rAFR,AFRW,MAF
+Norway,NOR,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,EUR,rOECDE,EFTA,OECD90
+Oman,OMN,Asia,Western Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,MES,MESm,MESg,MAF
+Pakistan,PAK,Asia,Southern Asia,LMC,Lo HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,PAKg,ASIA
+Palau,PLW,Oceania,Micronesia,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rdASI,ANZg,ASIA
+Panama,PAN,Americas,Latin America and the Caribbean,HIC,VHi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,LAM,rLAM,CAC,LAMi
+Papua New Guinea,PNG,Oceania,Melanesia,LMC,Med HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rdASI,SEASI,ASIA
+Paraguay,PRY,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,LAM,rLAM,SAS,LAMi
+Peru,PER,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,LAM,rLAM,SAN,LAMi
+Philippines,PHL,Asia,South-eastern Asia,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ASI,rdASI,SEASI,ASIA
+Poland,POL,Europe,Eastern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Portugal,PRT,Europe,Southern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EU12,OECD90
+Qatar,QAT,Asia,Western Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,MES,MESm,MESg,MAF
+"Congo, Republic",COG,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,AFR,rAFR,AFRW,MAF
+Romania,ROU,Europe,Eastern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Russian Federation,RUS,Europe,Eastern Europe,UMC,VHi HDI,Annex 1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,FSU,RUS,RUSg,REF
+Rwanda,RWA,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,AFR,rAFR,AFRE,MAF
+São Tomé and Príncipe,STP,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Saint Kitts and Nevis,KNA,Americas,Latin America and the Caribbean,HIC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Saint Lucia,LCA,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Saint Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Samoa,WSM,Oceania,Polynesia,LMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,ROW,rdASI,ANZg,OECD90
+Saudi Arabia,SAU,Asia,Western Asia,HIC,VHi HDI,Non-Annex 1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,MES,MESm,MESg,MAF
+Senegal,SEN,Africa,Sub-Saharan Africa,LMC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Serbia,SRB,Europe,Southern Europe,UMC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EET,rEET,EEUR,REF
+Seychelles,SYC,Africa,Sub-Saharan Africa,HIC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Sierra Leone,SLE,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Singapore,SGP,Asia,South-eastern Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ASI,CHNm,SEASI,ASIA
+Slovak Republic,SVK,Europe,Eastern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Slovenia,SVN,Europe,Southern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EET,rEUR,EEUR,REF
+Solomon Islands,SLB,Oceania,Melanesia,LMC,Med HDI,Non-Annex 1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,ROW,rOECDP,ANZg,OECD90
+Somalia,SOM,Africa,Sub-Saharan Africa,LIC,,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,AFR,rAFR,AFRE,MAF
+South Africa,ZAF,Africa,Sub-Saharan Africa,UMC,Hi HDI,Non-Annex 1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,AFR,ZAF,ZAFg,MAF
+Spain,ESP,Europe,Southern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,EUR,rEUR,EU12,OECD90
+Sri Lanka,LKA,Asia,Southern Asia,LMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SASI,ASIA
+Sudan,SDN,Africa,Northern Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,AFR,rAFR,AFRN,MAF
+Suriname,SUR,Americas,Latin America and the Caribbean,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,LAM,rLAM,SAN,LAMi
+Sweden,SWE,Europe,Northern Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,EUR,rEUR,EU15,OECD90
+Switzerland,CHE,Europe,Western Europe,HIC,VHi HDI,Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EUR,rOECDE,EFTA,OECD90
+Syria,SYR,Asia,Western Asia,LIC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,MES,MESm,MESg,MAF
+Tajikistan,TJK,Asia,Central Asia,LMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Tanzania,TZA,Africa,Sub-Saharan Africa,LMC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,AFR,rAFR,AFRE,MAF
+Thailand,THA,Asia,South-eastern Asia,UMC,VHi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,ASI,rdASI,SEASI,ASIA
+Timor-Leste,TLS,Asia,South-eastern Asia,LMC,Med HDI,Non-Annex 1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,ROW,rdASI,SEASI,ASIA
+Togo,TGO,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRW,MAF
+Tonga,TON,Oceania,Polynesia,UMC,Hi HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rdASI,ANZg,ASIA
+Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean,HIC,VHi HDI,Non-Annex 1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Tunisia,TUN,Africa,Northern Africa,LMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,AFR,rAFR,AFRN,MAF
+Turkey,TUR,Asia,Western Asia,UMC,,Annex 1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,CASI,OECD90
+Turkmenistan,TKM,Asia,Central Asia,UMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Turks and Caicos,TCA,Americas,Latin America and the Caribbean,HIC,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROW,rLAM,CAC,LAMi
+Uganda,UGA,Africa,Sub-Saharan Africa,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRE,MAF
+Ukraine,UKR,Europe,Eastern Europe,LMC,Hi HDI,Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FSU,rEET,EEUR,REF
+United Arab Emirates,ARE,Asia,Western Asia,HIC,VHi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,MES,MESm,MESg,MAF
+United Kingdom,GBR,Europe,Northern Europe,HIC,VHi HDI,Annex 1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,EUR,GBR,EU12,OECD90
+United States,USA,Americas,Northern America,HIC,VHi HDI,Annex 1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,USA,USAm,USAg,OECD90
+Uruguay,URY,Americas,Latin America and the Caribbean,HIC,VHi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,LAM,rLAM,SAS,LAMi
+Uzbekistan,UZB,Asia,Central Asia,LMC,Hi HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FSU,rdASI,CASI,REF
+Vanuatu,VUT,Oceania,Melanesia,LMC,Med HDI,Non-Annex 1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,ROW,rOECDP,ANZg,OECD90
+Venezuela,VEN,Americas,Latin America and the Caribbean,UMC,Med HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,LAM,rLAM,SAN,LAMi
+Vietnam,VNM,Asia,South-eastern Asia,LMC,Hi HDI,Non-Annex 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ROW,rdASI,SEASI,ASIA
+Yemen,YEM,Asia,Western Asia,LIC,Lo HDI,Non-Annex 1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,MES,MESm,MESg,MAF
+Zambia,ZMB,Africa,Sub-Saharan Africa,LIC,Med HDI,Non-Annex 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRS,MAF
+Zimbabwe,ZWE,Africa,Sub-Saharan Africa,LMC,Med HDI,Non-Annex 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AFR,rAFR,AFRS,MAF
